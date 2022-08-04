@@ -17,14 +17,14 @@ require (
 	github.com/go-openapi/swag v0.19.15
 	github.com/go-openapi/validate v0.20.2
 	github.com/go-playground/validator v9.31.0+incompatible
-	github.com/google/go-cmp v0.5.6
+	github.com/google/go-cmp v0.5.7
 	github.com/google/rpmpack v0.0.0-20210107155803-d6befbf05148
 	github.com/google/trillian v1.3.14-0.20210413093047-5e12fb368c8f
 	github.com/in-toto/in-toto-golang v0.2.1-0.20210627200632-886210ae2ab9
 	github.com/jedisct1/go-minisign v0.0.0-20210106175330-e54e81d562c7
 	github.com/mediocregopher/radix/v4 v4.0.0-beta.1
 	github.com/mitchellh/go-homedir v1.1.0
-	github.com/mitchellh/mapstructure v1.4.1
+	github.com/mitchellh/mapstructure v1.4.3
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/client_golang v1.11.0
 	github.com/rs/cors v1.8.0
@@ -36,16 +36,15 @@ require (
 	github.com/ulikunitz/xz v0.5.9 // indirect
 	github.com/urfave/negroni v1.0.0
 	github.com/zalando/go-keyring v0.1.1 // indirect
-	go.uber.org/goleak v1.1.10
-	go.uber.org/zap v1.18.1
-	gocloud.dev v0.23.0
-	golang.org/x/crypto v0.0.0-20210506145944-38f3c27a63bf
-	golang.org/x/mod v0.4.2
-	golang.org/x/net v0.0.0-20210505214959-0714010a04ed
+	go.uber.org/goleak v1.1.11
+	go.uber.org/zap v1.21.0
+	gocloud.dev v0.26.0
+	golang.org/x/crypto v0.0.0-20220331220935-ae2d96664a29
+	golang.org/x/mod v0.5.0
+	golang.org/x/net v0.0.0-20220401154927-543a649e0bdd
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/term v0.0.0-20201210144234-2321bbc49cbf // indirect
-	google.golang.org/genproto v0.0.0-20210602131652-f16073e35f0c
-	google.golang.org/grpc v1.39.0
-	google.golang.org/protobuf v1.27.1
+	google.golang.org/genproto v0.0.0-20220401170504-314d38edb7de
+	google.golang.org/grpc v1.45.0
+	google.golang.org/protobuf v1.28.0
 	gopkg.in/ini.v1 v1.62.0
 )
